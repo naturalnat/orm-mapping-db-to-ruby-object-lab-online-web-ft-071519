@@ -126,3 +126,5 @@ class Student
       FROM students
     SQL
 end
+
+end
