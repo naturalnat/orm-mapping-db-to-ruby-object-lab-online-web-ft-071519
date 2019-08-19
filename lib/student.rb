@@ -125,6 +125,6 @@ class Student
       SELECT *
       FROM students
     SQL
-end
+  end
 
 end
